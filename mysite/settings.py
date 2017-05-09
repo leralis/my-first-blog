@@ -25,7 +25,8 @@ SECRET_KEY = '2=qmpv$ih85wcqww7xd#4ttvx#gv&4-vd0x#agfa2dj)i=%&-a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['leralis.pythonanywhere.com']
+
 
 
 # Application definition
